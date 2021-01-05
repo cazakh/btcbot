@@ -10,7 +10,7 @@ from bit.network import get_fee, get_fee_cached
 
 lock = threading.Lock()
 
-bottoken = "1415968966:AAEVFQPnw0KJT7qgzkMBcklWIffoqrURTCA"
+bottoken = "415968966:AAEVFQPnw0KJT7qgzkMBcklWIffoqrURTCA"
 bot = telebot.TeleBot(bottoken)
 
 #ПРИПИЗДОШИМСЯ К БД!
